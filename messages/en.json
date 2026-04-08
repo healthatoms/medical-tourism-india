@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "hospitals": "Hospitals",
+    "doctors": "Doctors",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "bookConsultation": "Book Consultation"
+  },
+  "medical_systems": {
+    "allopathy": "Allopathy",
+    "ayurveda": "Ayurveda",
+    "homeopathy": "Homeopathy",
+    "unani": "Unani",
+    "siddha": "Siddha"
+  },
+  "home": {
+    "title": "World-Class Medical Tourism in India",
+    "description": "Affordable healthcare with expert doctors and modern facilities"
+  },
+  "services": {
+    "title": "Our Medical Services",
+    "cardiology": "Cardiology",
+    "orthopedics": "Orthopedics",
+    "oncology": "Cancer Care",
+    "dentistry": "Dentistry"
+  }
+}

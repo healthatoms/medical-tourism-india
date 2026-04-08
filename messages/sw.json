@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "services": "Huduma za Kimatibabu",
+    "hospitals": "Hospitali",
+    "doctors": "Madaktari",
+    "testimonials": "Ushahidi wa Wasimu",
+    "contact": "Wasiliana Nasi",
+    "bookConsultation": "Bua Ushauri"
+  },
+  "medical_systems": {
+    "allopathy": "Tiba ya Mafunzo",
+    "ayurveda": "Ayurveda",
+    "homeopathy": "Homeopathy",
+    "unani": "Tiba ya Unani",
+    "siddha": "Tiba ya Siddha"
+  },
+  "home": {
+    "title": "Utalii wa Kimatibabu Duniani katika Uhindi",
+    "description": "Huduma za afya zenye ubora na bei nafuu kwa wasimu kutoka ulimwenguni"
+  },
+  "services": {
+    "title": "Huduma Zetu za Kimatibabu",
+    "cardiology": "Ugonjwa wa Moyo",
+    "orthopedics": "Upasuaji wa Mifupa",
+    "oncology": "Matibabu ya Saratani",
+    "dentistry": "Tiba ya Meno"
+  }
+}

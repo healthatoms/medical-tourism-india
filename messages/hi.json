@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "मुखपृष्ठ",
+    "services": "सेवाएँ",
+    "hospitals": "अस्पताल",
+    "doctors": "डॉक्टर",
+    "testimonials": "प्रशंसापत्र",
+    "contact": "संपर्क करें",
+    "bookConsultation": "परामर्श बुक करें"
+  },
+  "medical_systems": {
+    "allopathy": "आलोपैथी",
+    "ayurveda": "आयुर्वेद",
+    "homeopathy": "होम्योपैथी",
+    "unani": "यूनानी",
+    "siddha": "सिद्ध"
+  },
+  "home": {
+    "title": "भारत में विश्व-स्तरीय चिकित्सा पर्यटन",
+    "description": "विशेषज्ञ डॉक्टरों और आधुनिक सुविधाओं के साथ सस्ती स्वास्थ्यसेवा"
+  },
+  "services": {
+    "title": "हम��री चिकित्सा सेवाएँ",
+    "cardiology": "कार्डियोलॉजी",
+    "orthopedics": "अस्थि रोग",
+    "oncology": "कैंसर देखभाल",
+    "dentistry": "दंत चिकित्सा"
+  }
+}

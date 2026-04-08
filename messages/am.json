@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "መነሻ",
+    "services": "ህክምና አገልግሎት",
+    "hospitals": "병원",
+    "doctors": "ሐኪሞች",
+    "testimonials": "ታካሚዎች ምስክርነት",
+    "contact": "ያግኙን",
+    "bookConsultation": "ምክር ያስቀምጡ"
+  },
+  "medical_systems": {
+    "allopathy": "ዘመናዊ ሕክምና",
+    "ayurveda": "አይዩርቬዳ",
+    "homeopathy": "ሆሞኦፓቲ",
+    "unani": "ዩናኒ ሕክምና",
+    "siddha": "ሲድሃ ሕክምና"
+  },
+  "home": {
+    "title": "በህንድ ውስጥ ዓለም ደረጃ የሕክምና ምልከታ",
+    "description": "ከጎበዝ ሐኪሞች እና ዘመናዊ ሕክምና ተቋማት ጋር ተመጣጣኝ የሕክምና አገልግሎት"
+  },
+  "services": {
+    "title": "የእኛ የሕክምና አገልግሎቶች",
+    "cardiology": "ልብ በሽታ",
+    "orthopedics": "አጥንት ቅርጫት",
+    "oncology": "ካንሰር ህክምና",
+    "dentistry": "ጥርስ ሕክምና"
+  }
+}

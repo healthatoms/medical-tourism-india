@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Ikhaya",
+    "services": "Izinsizane Zezokwelapha",
+    "hospitals": "Izibhedlela",
+    "doctors": "Abagoli",
+    "testimonials": "Izifakazi Zabaguli",
+    "contact": "Xhumane Nathi",
+    "bookConsultation": "Bhooka Isikukela"
+  },
+  "medical_systems": {
+    "allopathy": "Amayeza Akhona",
+    "ayurveda": "Ayurveda",
+    "homeopathy": "Homeopathy",
+    "unani": "Amayeza e-Unani",
+    "siddha": "Amayeza e-Siddha"
+  },
+  "home": {
+    "title": "Uhambi Lwezempilo Emhlabeni Embindini",
+    "description": "Izinsizane zezempilo ezimnandi nanodokotela abangcwele futhi ezindawo ezintsha"
+  },
+  "services": {
+    "title": "Izinsizane Zethu Zezokwelapha",
+    "cardiology": "Isifo Somqondo",
+    "orthopedics": "Ukuncintelela Kwamathamo",
+    "oncology": "Ukonelela I-Cancer",
+    "dentistry": "Ezentini"
+  }
+}

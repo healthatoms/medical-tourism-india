@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "الصفحة الرئيسية",
+    "services": "الخدمات الطبية",
+    "hospitals": "المستشفيات",
+    "doctors": "الأطباء",
+    "testimonials": "شهادات المرضى",
+    "contact": "اتصل بنا",
+    "bookConsultation": "احجز استشارة"
+  },
+  "medical_systems": {
+    "allopathy": "الطب الحديث",
+    "ayurveda": "الايورفيدا",
+    "homeopathy": "المعالجة المثلية",
+    "unani": "الطب الأناني",
+    "siddha": "الطب السيدا"
+  },
+  "home": {
+    "title": "السياحة الطبية العالمية في الهند",
+    "description": "رعاية صحية بأسعار معقولة مع أطباء خبراء ومرافق حديثة"
+  },
+  "services": {
+    "title": "خدماتنا الطبية",
+    "cardiology": "أمراض القلب",
+    "orthopedics": "جراحة العظام",
+    "oncology": "علاج السرطان",
+    "dentistry": "طب الأسنان"
+  }
+}

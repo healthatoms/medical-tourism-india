@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Gida",
+    "services": "Ayyuka na Lafiya",
+    "hospitals": "Asibitaci",
+    "doctors": "Likitoci",
+    "testimonials": "Sharidassun Marubuciyya",
+    "contact": "Tuntuba Mu",
+    "bookConsultation": "Buga Shawara"
+  },
+  "medical_systems": {
+    "allopathy": "Ilimin Lafiya",
+    "ayurveda": "Ayurveda",
+    "homeopathy": "Homeopathy",
+    "unani": "Ilimin Unani",
+    "siddha": "Ilimin Siddha"
+  },
+  "home": {
+    "title": "Yajewar Lafiya Duniya a Indiya",
+    "description": "Aiki na Lafiya mai ƙima tare da Likitoci masu ƙwarre da gidaje na zamani"
+  },
+  "services": {
+    "title": "Ayyukanmu na Lafiya",
+    "cardiology": "Cutar Zuciya",
+    "orthopedics": "Kasuwar Kasku",
+    "oncology": "Jiya na Kansa",
+    "dentistry": "Ilimin Hakori"
+  }
+}
