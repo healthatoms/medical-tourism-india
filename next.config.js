@@ -1,6 +1,6 @@
 const createNextIntlPlugin = require('next-intl/plugin');
 
-const withNextIntl = createNextIntlPlugin();
+const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
 
 const nextConfig = {
   reactStrictMode: true,
@@ -17,7 +17,7 @@ const nextConfig = {
             value: 'http'
           }
         ],
-        destination: 'https://lightgreen-snail-6883o3.hostingersite.com/:path*',
+        destination: 'https://antiquewhite-cat-424285.hostingersite.com/:path*',
         permanent: true,
       }
     ]
@@ -29,11 +29,9 @@ const nextConfig = {
     formats: ['image/avif', 'image/webp'],
   },
 
-  // Compression
   compress: true,
   swcMinify: true,
 
-  // Production optimizations
   productionBrowserSourceMaps: false,
 };
 
